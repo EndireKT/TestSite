@@ -1,1 +1,3 @@
 2023/02/21 02:04:22 [alert] 27560#11012: OpenEvent("ngx_master_18280") failed (2: The system cannot find the file specified)
+2023/02/21 21:59:11 [alert] 12248#26620: worker process 24176 exited with code C0000142
+2023/02/21 21:59:11 [alert] 12248#26620: could not respawn worker
